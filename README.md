@@ -1,2 +1,2 @@
 # Simple-Text-Editor-with-Undo-Functionality
-This program does functions such as add, deletes, undo with any text
+This program does functions such as add, delete, undo with any text
